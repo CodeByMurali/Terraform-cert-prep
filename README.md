@@ -1,2 +1,2 @@
 # Terraform-cert-prep
-Terraform-cert-prep associate level 2024
+HashiCorp Certified: Terraform Associate (003)
